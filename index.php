@@ -1,7 +1,6 @@
 <?php
-
-echo "<h1>Assigment #2</h1>";
-echo "<h2>Adrian Carrasco</h2>";
+echo "<h1>Assigment #2</h1>"; #Title of the page
+echo "<h2>Adrian Carrasco</h2>"; #my name
 if (isset($_GET['a']) && isset($_GET['b']) && isset($_GET['c'])) { #get the values from thhe python
     $a = $_GET['a']; 
     $b = $_GET['b'];
