@@ -1,4 +1,4 @@
-import sys
+import sys #library that conect php with python 
 from math import sqrt,pow #from math library import square root and power
 import datetime  #library to make the date 
 
